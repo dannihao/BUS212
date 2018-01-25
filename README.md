@@ -1,2 +1,2 @@
-# mynewproject1
-today is Thursday
+# BUS212 Introduction to GitHub
+This is the first time that I used GitHub
